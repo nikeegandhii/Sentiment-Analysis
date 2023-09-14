@@ -15,4 +15,4 @@ This GitHub project is a machine learning solution for sentiment analysis of IMD
 6. **Model Evaluation**:
 - The model's performance is assessed on the testing data using accuracy, a confusion matrix, and a classification report.
 
-# Data: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+**Data: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
